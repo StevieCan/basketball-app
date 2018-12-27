@@ -1,1 +1,1 @@
-json.array! @team, partial: "team", as: :team
+json.array! @teams, partial: "team", as: :team
